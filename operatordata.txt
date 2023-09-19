@@ -1,0 +1,392 @@
+Name
+PrimariesEN
+Primary1, max optics, max barrels, max grips, laser
+...
+Secondaries
+Secondary1, ...
+Gadgets
+Frag Grenade, ...GADGETS ARE LISTED AS SINGULAR
+Optic order: ["Iron Sights", "Red Dot A", "Red Dot B", "Red Dot C", " Holo A", "Holo B", "Holo C", "Holo D", "Reflex A", "Reflex B", "Reflex C", "1.5x", "2.0x", "2.5x A", "2.5x B", "3.0x"]
+Barrel order: ["None", "Suppresor", "Muzzle Brake", "Flash Hider" , "Compensator" , "Extended Barrel"]
+Grip order: ["None", "Vertical Grip", "Angled Grip"]
+Laser: none, yep
+EXCEPTIONS: Capitao & Gridlock: Both M249s no suppressor, Tachanka, DP27 extra Reflex
+
+START
+Sledge
+Primaries
+M590A1, 11, 1, 1, 2
+L85A2, 12, 5, 3, 2
+Secondaries
+P226 MK 25, 1, 3, 1, 2
+Gadgets
+Frag Grenade, Stun Grenade, Impact EMP Grenade
+END
+START
+Thatcher
+Primaries
+AR33,15, 5, 3, 2
+L85A2, 13, 5, 3, 2
+M590A1, 11, 1, 1, 2
+Secondaries
+P226 MK 25, 1, 3, 1, 2
+Gadgets
+Breach Charge, Claymore
+END
+START
+Ash
+Primaries
+G36C, 12, 6, 3, 2
+R4-C, 11, 6, 3, 2
+Secondaries
+M45 Meusoc, 1, 3, 1, 2
+5.7 USG, 1, 3, 1, 2
+Gadgets
+Breach Charge, Claymore
+END
+START
+Thermite
+Primaries
+M1014, 11, 1, 1, 2
+556XI, 15, 5, 3, 2
+Secondaries
+M45 Meusoc, 1, 3, 1, 2
+5.7 USG, 1, 3, 1, 2
+Gadgets
+Smoke Grenade, Stun Grenade
+END
+START
+Twitch
+Primaries
+F2, 12, 6, 1, 2
+417, 16, 3, 3, 2
+SG-CQB, 11, 1, 2, 2
+Secondaries
+P9, 1, 3, 1, 2
+LFP586, 1, 1, 1, 2
+Gadgets
+Claymore, Smoke Grenade
+END
+START
+Montagne
+Primaries
+Le Roc Shield
+Secondaries
+P9, 1, 3, 1, 2
+LFP586, 1, 1, 1, 2
+Gadgets
+Hard Breach Charge, Smoke Grenade, Impact EMP Grenade
+END
+START
+Glaz
+Primaries
+Ots-03, 9, 3, 3, 2
+Secondaries
+PMM, 1, 3, 1, 2
+Gonne-6, 1, 1, 1, 1
+Bearing-9, 11, 6, 1, 2
+Gadgets
+Smoke Grenade, Frag Grenade, Claymore
+END
+START
+Fuze
+Primaries
+Ballistic Shield, 1, 1, 1, 1
+6P41, 15, 5, 3, 2
+AK-12, 15, 5, 3, 2
+Secondaries
+PMM, 1, 3, 1, 2
+GSH-18, 1, 3, 1, 2
+Gadgets
+Breach Charge, Hard Breach Charge, Smoke Grenade
+END
+START
+Blitz
+Primaries
+G52-Tactical Shield, 1, 1, 1, 1
+Secondaries
+P12, 1, 4, 1, 2
+Gadgets
+Smoke Grenade, Breach Charge
+END
+START
+IQ
+Primaries
+AUG A2, 15, 5, 1, 2
+552 Commando, 12, 6, 3, 2
+G8A1, 11, 5, 3, 2
+Secondaries
+P12, 1, 4, 1, 2
+Gadgets
+Breach Charge, Claymore
+END
+START
+Buck
+Primaries
+C8-SFW, 12, 6, 1, 2
+CAMRS, 16, 3, 1, 2
+Secondaries
+MK1 9mm, 1, 3, 1, 2
+Gonne-6, 1, 1, 1, 1
+Gadgets
+Stun Grenade, Hard Breach Charge
+END
+START
+Blackbeard
+MK17 CQB, 13, 6, 3, 2
+SR-25, 16, 3, 3, 2
+Secondaries
+D-50, 1, 3, 1, 2
+Gonne-6, 1, 1, 1, 1
+Gadgets
+Claymore, Stun Grenade
+END
+START
+Capitao
+Primaries
+Para-308, 13, 6, 3, 2
+M249, 15, 4, 3, 2
+Secondaries
+PRB92, 1, 3, 1, 2
+Gonne-6, 1, 1, 1, 1
+Gadgets
+Claymore, Hard Breach Charge
+END
+START
+Hibana
+Primaries
+Type-89, 15, 5, 3, 2
+SUPERNOVA, 11, 2, 1, 2
+Secondaries
+P229, 1, 3, 1, 2
+Bearing-9, 11, 6, 1, 2
+Gadgets
+Stun Grenade, Breach Charge
+END
+START
+Jackal
+Primaries
+C7E, 13, 5, 3, 2
+PDW9, 12, 6, 3, 2
+ITA12L, 11, 1, 1, 2
+Secondaries
+USP40, 1, 3, 1, 2
+ITA12S, 11, 1, 1, 2
+Gadgets
+Claymore, Smoke Grenade
+END
+START
+Ying
+T-95LSW, 15, 5, 3, 2
+SIX12, 11, 1, 1, 2
+Secondaries
+Q-929, 1, 3, 1, 2
+Gadgets
+Hard Breach Charge, Smoke Grenade
+END
+START
+Zofia
+LMG-E, 13, 5, 3, 2
+M782, 13, 5, 3, 2
+Secondaries
+RG15, 1, 3, 1, 2
+Gadgets
+Breach Charge, Claymore
+END
+START
+Dokkaebi
+Primaries
+Mk14 EBR, 16, 3, 3, 2
+BOSG.12.2, 15, 1, 3, 2
+Secondaries
+SMG-12, 11, 1, 3, 2
+CZ75 Auto, 1, 2, 1, 2
+Gonne-6, 1, 1, 1, 1
+Gadgets
+Smoke Grenade, Flash Grenade, Impact EMP Grenade
+END
+START
+Lion
+Primaries
+V308, 15, 5, 3, 2
+417, 16, 3, 3, 2
+SG-CQB, 11, 1, 2, 2
+Secondaries
+LFP586, 1, 1, 1, 2
+P9, 1, 3, 1, 2
+Gonne-6, 1, 1, 1, 1
+Gadgets
+Flash Grenade, Claymore, Impact EMP Grenade
+END
+START
+Finka
+Primaries
+Spear .308, 13, 6 ,3, 2
+6P41, 13, 5, 3, 2
+SASG-12, 11, 2, 3, 2
+Secondaries
+PMM, 1, 3, 1, 2
+GSH-18, 1, 3, 1, 2
+Gonne-6, 1, 1, 1, 1
+Gadgets
+Smoke Grenade, Stun Grenade
+END
+START
+Maverick
+Primaries
+AR-15.50, 16, 3, 3, 2
+M4, 13, 6, 3, 2
+Secondaries
+1911 TACOPS, 1, 3, 1, 2
+Gadgets
+Stun Grenade, Claymore
+END
+START
+Nomad
+Primaries
+AK-74M, 15, 5, 1, 2
+ARX200, 13, 5, 3, 2
+Secondaries
+.44 Mag Semi-Auto, 1, 1, 1, 2
+PRB92, 1, 3, 1, 2
+Gadgets
+Stun Grenade, Breach Charge
+END
+START
+Gridlock
+F90, 15, 6, 3, 2
+M249 SAW, 15, 4, 2
+Secondaries
+Super Shorty, 11, 1, 1, 2
+SDP 9mm, 1, 3, 1, 2
+Gonne-6, 1, 1, 1, 1
+Gadgets
+Smoke Grenade, Breach Charge, Impact EMP Grenade
+END
+START
+NOKK
+FMG-9, 12, 6, 1, 2
+SIX12 SD, 11, 1, 1, 2
+Secondaries
+5.7 USG, 1, 3, 1, 2
+D-50, 1, 3, 1, 2
+Secondaries
+Frag Grenade, Hard Breach Charge, Impact EMP Grenade
+END
+START
+Amaru
+G8A1, 15, 5, 3, 2
+SUPERNOVA, 11, 2, 1, 2
+Secondaries
+SMG-11, 11, 5, 3, 2
+ITA12S, 11, 1, 1, 2
+Gonne-6, 1, 1, 1, 1
+Gadgets
+Hard Breach Charge, Stun Grenade
+END
+START
+Kali
+Primaries
+CSRX 300, 1, 1, 1, 1
+Secondaries
+SPSMG9, 11, 6, 1, 2
+CZ75 Auto, 1, 2, 1, 2
+P226 MK 25, 1, 3, 1, 2
+Gadgets
+Claymore, Breach Charge
+END
+START
+Iana
+Primaries
+ARX200, 11, 5, 3, 2
+G36C, 12, 6, 3, 2
+Secondaries
+MK1 9mm, 1, 3, 1, 2
+Gadgets
+Frag Grenade, Smoke Grenade
+END
+START
+Ace
+Primaries
+AK-12, 12, 5, 3, 2
+M1014, 11, 1, 1, 2
+Secondaries
+P9, 1, 3, 1, 2
+Gadgets
+Breach Charge, Claymore
+END
+START
+Zero
+Primaries
+SC3000K, 13, 6, 3, 2
+MP7, 12, 6, 1, 2
+Secondaries
+5.7 USG, 1, 1, 1, 2
+Gonne-6, 1, 1, 1, 1
+Gadgets
+Hard Breach Charge, Claymore
+END
+START
+Flores
+Primaries
+AR33, 13, 5, 3, 2
+Sr-25, 16, 3, 3, 2
+Secondaries
+GSH-18, 1, 3, 1, 2
+Gadgets
+Stun Grenade, Claymore
+END
+START
+Osa
+Primaries
+556XI, 15, 5, 3, 2
+PDW9, 12, 6, 3, 2
+Secondaries
+PMM, 1, 3, 1, 2
+Gadgets
+Smoke Grenade, Claymore, Impact EMP Grenade
+END
+START
+Sens
+PrimariesraPrimaries, 2
+P0F-9, 13, 6, 3, 2
+417, 16, 3, 3, 2
+Secondaries
+SDP 9mm, 1, 3, 1, 2
+Gonne-6, 1, 1, 1, 1
+Gadgets
+Hard Breach Charge, Claymore
+END
+START
+Grim
+Primaries
+553 Commando, 13, 6, 3, 2
+SG-CQB, 11, 1, 2, 2
+Secondaries
+P229, 1, 3, 1, 2
+Baliff 410, 1, 1, 1, 2
+Gadgets
+Breach Charge, Claymore, Hard Breach Charge
+END
+START
+Brava
+Primaries
+Para-308, 12, 6, 3, 2
+CAMRS, 16, 3, 3, 2
+Secondaries
+Super Shorty, 11, 1, 1, 2
+USP40, 1, 3, 1, 2
+Gadgets
+Smoke Grenade, Claymore
+END
+START
+Ram
+Primaries
+R4-C, 13, 6, 3, 2
+LMG-E, 13, 5, 3, 2
+Secondaries
+MK1 9mm, 1, 3, 1, 2
+ITA12S, 11, 1, 1, 2
+Gadgets
+Stun Grenade, Smoke Grenade
+END
